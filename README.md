@@ -12,7 +12,16 @@ All coders, LUA enthusists and LoTRO Peeps are encouraged to fork this repositor
 
 Thanks!
 
-Update 4.4.7 by Ravdor/Bamor (8 Feb 2016)
+Update 4.7.1  Landal/gjpc (10 June 2016)
+Fix crash for firs time users caused by larger font feature
+
+Update 4.7.0 Landal/gjpc (5 June 2016)
+added larger fonts option for the stat panels
+
+Update 4.6.0 hdflux (4 June 2016)
+added the **/ca cleanup** command. Clears the stats and cleans the cache
+
+Update 4.5.0 by Ravdor/Bamor (8 Feb 2016)
 Separated hits into Normal, Critical, and Devastates
 Added APS (Attacks Per Second)
 
